@@ -141,6 +141,29 @@ var footer = '<footer class="mbr-small-footer mbr-section mbr-section-nopadding 
 '								<p class="mbr-section-text lead">'+
 '									<a href="http://msme.gov.in">Ministry of Small & Medium Enterprise</a>'+
 '								</p>'+
+'								<p class="mbr-section-text lead">'+
+'									<a href="http://niti.gov.in">Niti Aayog</a>'+
+'								</p>'+
+'								<p class="mbr-section-text lead">'+
+'									<a href="https://www.sidbi.in">SIDBI </a>'+
+'								</p>'+
+'								<p class="mbr-section-text lead">'+
+'									<a href="http://www.mudra.org.in">Mudra</a>'+
+'								</p>'+
+'								<p class="mbr-section-text lead">'+
+'									<a href="https://venturefund.sidbi.in">SIDBI Venture Fund</a>'+
+'								</p>'+
+'								<p class="mbr-section-text lead">'+
+'									<a href="https://www.sidbi.in">SIDBI Startup Mitra</a>'+
+'								</p>'+
+'								<p class="mbr-section-text lead">'+
+'									<a href="http://10000startups.com">NASSCOM – 10000 Startups</a>'+
+'								</p>'+
+'								<p class="mbr-section-text lead">'+
+'									<a href="http://www.investindia.gov.in">Invest India</a>'+
+'								</p>'+
+
+
 ''+
 '							</div>'+
 ''+
@@ -165,6 +188,7 @@ var footer = '<footer class="mbr-small-footer mbr-section mbr-section-nopadding 
 '									<br>'+
 '									Cell No. :+91  9739834819 / +91 9480633382'+
 '									<br>'+
+'									<br><strong>Follow Our Blogs On</strong>  <a class="btn btn-icon" href="https://wordpress.com/posts/companiesform.wordpress.com" target="_blank"> <span class="socicon socicon-wordpress mbr-iconfont mbr-iconfont-btn"></span></a>'+
 '								</p>'+
 '							</div>'+
 '						</div>'+
@@ -238,6 +262,15 @@ var footer = '<footer class="mbr-small-footer mbr-section mbr-section-nopadding 
 '								<p class="mbr-section-text lead">'+
 '									<a href="startup-package.html#finances">Lease Finance Loans</a>'+
 '								</p>'+
+'								<p class="mbr-section-text lead">'+
+'									<a href="startup-package.html#finances">Project Finance</a>'+
+'								</p>'+
+'								<p class="mbr-section-text lead">'+
+'									<a href="startup-package.html#finances">Term Loans</a>'+
+'								</p>'+
+'								<p class="mbr-section-text lead">'+
+'									<a href="startup-package.html#finances">Unsecured Loans</a>'+
+'								</p>'+
 '							</div>'+
 ''+
 '							<div class="col-xs-12 col-md-4 text-xs-center text-md-left">'+
@@ -282,12 +315,12 @@ var footer = '<footer class="mbr-small-footer mbr-section mbr-section-nopadding 
 ''+
 '				<div class="row second-line">'+
 '					<div class="col-xs-12">'+
-'						<div class="col-md-2">'+
+'						<div class="col-md-3">'+
 '							<div class="logo">'+
 '								<a href="index.html"><img src="assets/images/cf-logo-transparent.png" alt="Mobirise"></a>'+
 '							</div>'+
 '						</div>'+
-'						<div class="col-md-4 col-md-offset-6">'+
+'						<div class="col-md-4 col-md-offset-5">'+
 '							<div class="col-xs-12 text-xs-center text-md-left">'+
 '								<p class="mbr-section-subtitle display-3">'+
 '									Follow Us'+
@@ -298,6 +331,7 @@ var footer = '<footer class="mbr-small-footer mbr-section mbr-section-nopadding 
 '									<a class="btn btn-icon" href="https://www.linkedin.com/in/CompaniesForm" target="_blank"> <span class="socicon socicon-linkedin mbr-iconfont mbr-iconfont-btn"></span></a>'+
 '									<a class="btn btn-icon" href="https://www.tumblr.com/blog/companiesform" target="_blank"> <span class="socicon socicon-tumblr mbr-iconfont mbr-iconfont-btn"></span></a>'+
 '									<a class="btn btn-icon" href="https://www.instagram.com/companiesform/" target="_blank"> <span class="socicon socicon-instagram mbr-iconfont mbr-iconfont-btn"></span></a>'+
+'									<a class="btn btn-icon" href="https://wordpress.com/posts/companiesform.wordpress.com" target="_blank"> <span class="socicon socicon-wordpress mbr-iconfont mbr-iconfont-btn"></span></a>'+
 '								</div>'+
 '							</div'+
 '							>'+

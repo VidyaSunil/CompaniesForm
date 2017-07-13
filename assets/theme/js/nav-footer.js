@@ -315,12 +315,12 @@ var footer = '<footer class="mbr-small-footer mbr-section mbr-section-nopadding 
 ''+
 '				<div class="row second-line">'+
 '					<div class="col-xs-12">'+
-'						<div class="col-md-3">'+
+'						<div class="col-md-4">'+
 '							<div class="logo">'+
 '								<a href="index.html"><img src="assets/images/cf-logo-transparent.png" alt="Mobirise"></a>'+
 '							</div>'+
 '						</div>'+
-'						<div class="col-md-4 col-md-offset-5">'+
+'						<div class="col-md-4 col-md-offset-4">'+
 '							<div class="col-xs-12 text-xs-center text-md-left">'+
 '								<p class="mbr-section-subtitle display-3">'+
 '									Follow Us'+

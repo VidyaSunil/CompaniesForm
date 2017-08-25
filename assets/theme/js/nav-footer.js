@@ -133,7 +133,7 @@ var footer = '<footer class="mbr-small-footer mbr-section mbr-section-nopadding 
 '								</p>'+
 ''+
 '								<p class="mbr-section-text lead">'+
-'									<a href="http://startupindia.gov.in">Startup Website</a>'+
+'									<a href="http://startupindia.gov.in">Startup India</a>'+
 '								</p>'+
 '								<p class="mbr-section-text lead">'+
 '									<a href="http://dipp.nic.in">Department of Industrial Policy & Promotion</a>'+
@@ -162,6 +162,12 @@ var footer = '<footer class="mbr-small-footer mbr-section mbr-section-nopadding 
 '								<p class="mbr-section-text lead">'+
 '									<a href="http://www.investindia.gov.in">Invest India</a>'+
 '								</p>'+
+'								<p class="mbr-section-text lead">'+
+'									<a href="https://www.startupindiahub.org.in">Startup India Hub</a>'+
+'								</p>'+
+'								<p class="mbr-section-text lead">'+
+'									<a href="www.startup.karnataka.gov.in">Startup Cell Karnataka</a>'+
+'								</p>'+
 
 
 ''+
@@ -176,9 +182,7 @@ var footer = '<footer class="mbr-small-footer mbr-section mbr-section-nopadding 
 '									<br>'+
 '									# 64 , Benaka Krupa Apartments'+
 '									<br>'+
-'									7th Main , 7th Cross,'+
-'									<br>'+
-'									Rajeev Nagar'+
+'									7th Main , 7th Cross, Rajeev Nagar'+
 '									<br>'+
 '									Banashankari 3rd Stage'+
 '									<br>'+
@@ -188,7 +192,8 @@ var footer = '<footer class="mbr-small-footer mbr-section mbr-section-nopadding 
 '									<br>'+
 '									Cell No. :+91  9739834819 / +91 9480633382'+
 '									<br>'+
-'									<br><strong>Follow Our Blogs On</strong>  <a class="btn btn-icon" href="https://wordpress.com/posts/companiesform.wordpress.com" target="_blank"> <span class="socicon socicon-wordpress mbr-iconfont mbr-iconfont-btn"></span></a>'+
+'									<br><strong>Follow Our Blogs On</strong>  <a class="btn btn-icon" href="https://companiesformblog.wordpress.com" target="_blank"> <span class="socicon socicon-wordpress mbr-iconfont mbr-iconfont-btn"></span></a>'+
+'									<br><strong>Join our FB Group At</strong>  <a class="btn btn-icon" href="https://www.facebook.com/groups/VidyaSunil" target="_blank"> <span class="socicon socicon-facebook mbr-iconfont mbr-iconfont-btn"></span></a>'+
 '								</p>'+
 '							</div>'+
 '						</div>'+
@@ -305,6 +310,9 @@ var footer = '<footer class="mbr-small-footer mbr-section mbr-section-nopadding 
 '								<p class="mbr-section-text lead">'+
 '									<a href="allied-registration.html#Karnataka">Karnataka Apartment Ownership Act (KAOA)</a>'+
 '								</p>'+
+'								<p class="mbr-section-text lead">'+
+'									<a href="gst.html">GST Services</a>'+
+'								</p>'+
 ''+
 '							</div>'+
 ''+
@@ -326,12 +334,12 @@ var footer = '<footer class="mbr-small-footer mbr-section mbr-section-nopadding 
 '									Follow Us'+
 '								</p>'+
 '								<div class="mbr-section-btn">'+
-'									<a class="btn btn-icon" href="https://www.facebook.com/CompaniesForm" target="_blank"> <span class="socicon socicon-facebook mbr-iconfont mbr-iconfont-btn"></span></a>'+
+'									<a class="btn btn-icon" href="https://www.facebook.com/VidyaSunilCompaniesForm" target="_blank"> <span class="socicon socicon-facebook mbr-iconfont mbr-iconfont-btn"></span></a>'+
 '									<a class="btn btn-icon" href="https://twitter.com/CompaniesForm" target="_blank"> <span class="socicon socicon-twitter mbr-iconfont mbr-iconfont-btn"></span></a>'+
 '									<a class="btn btn-icon" href="https://www.linkedin.com/in/CompaniesForm" target="_blank"> <span class="socicon socicon-linkedin mbr-iconfont mbr-iconfont-btn"></span></a>'+
 '									<a class="btn btn-icon" href="https://www.tumblr.com/blog/companiesform" target="_blank"> <span class="socicon socicon-tumblr mbr-iconfont mbr-iconfont-btn"></span></a>'+
 '									<a class="btn btn-icon" href="https://www.instagram.com/companiesform/" target="_blank"> <span class="socicon socicon-instagram mbr-iconfont mbr-iconfont-btn"></span></a>'+
-'									<a class="btn btn-icon" href="https://wordpress.com/posts/companiesform.wordpress.com" target="_blank"> <span class="socicon socicon-wordpress mbr-iconfont mbr-iconfont-btn"></span></a>'+
+'									<a class="btn btn-icon" href="https://companiesformblog.wordpress.com" target="_blank"> <span class="socicon socicon-wordpress mbr-iconfont mbr-iconfont-btn"></span></a>'+
 '								</div>'+
 '							</div'+
 '							>'+

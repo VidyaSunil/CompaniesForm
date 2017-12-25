@@ -123,50 +123,50 @@ var footer = '<footer class="mbr-small-footer mbr-section mbr-section-nopadding 
 '									Quick Links'+
 '								</p>'+
 '								<p class="mbr-section-text lead">'+
-'									<a href="http://www.mca.gov.in">Ministry of Corporate Affairs</a>'+
+'									<a href="http://www.mca.gov.in" target="_blank">Ministry of Corporate Affairs</a>'+
 '								</p>'+
 '								<p class="mbr-section-text lead">'+
-'									<a href="https://www.gst.gov.in">GST</a>'+
+'									<a href="https://www.gst.gov.in" target="_blank">GST</a>'+
 '								</p>'+
 '								<p class="mbr-section-text lead">'+
-'									<a href="https://incometaxindiaefiling.gov.in">Income Tax</a>'+
+'									<a href="https://incometaxindiaefiling.gov.in" target="_blank">Income Tax</a>'+
 '								</p>'+
 ''+
 '								<p class="mbr-section-text lead">'+
-'									<a href="http://startupindia.gov.in">Startup India</a>'+
+'									<a href="http://startupindia.gov.in" target="_blank">Startup India</a>'+
 '								</p>'+
 '								<p class="mbr-section-text lead">'+
-'									<a href="http://dipp.nic.in">Department of Industrial Policy & Promotion</a>'+
+'									<a href="http://dipp.nic.in" target="_blank">Department of Industrial Policy & Promotion</a>'+
 '								</p>'+
 '								<p class="mbr-section-text lead">'+
-'									<a href="http://msme.gov.in">Ministry of Small & Medium Enterprise</a>'+
+'									<a href="http://msme.gov.in" target="_blank">Ministry of Small & Medium Enterprise</a>'+
 '								</p>'+
 '								<p class="mbr-section-text lead">'+
-'									<a href="http://niti.gov.in">Niti Aayog</a>'+
+'									<a href="http://niti.gov.in" target="_blank">Niti Aayog</a>'+
 '								</p>'+
 '								<p class="mbr-section-text lead">'+
-'									<a href="https://www.sidbi.in">SIDBI </a>'+
+'									<a href="https://www.sidbi.in" target="_blank">SIDBI </a>'+
 '								</p>'+
 '								<p class="mbr-section-text lead">'+
-'									<a href="http://www.mudra.org.in">Mudra</a>'+
+'									<a href="http://www.mudra.org.in" target="_blank">Mudra</a>'+
 '								</p>'+
 '								<p class="mbr-section-text lead">'+
-'									<a href="https://venturefund.sidbi.in">SIDBI Venture Fund</a>'+
+'									<a href="https://venturefund.sidbi.in" target="_blank">SIDBI Venture Fund</a>'+
 '								</p>'+
 '								<p class="mbr-section-text lead">'+
-'									<a href="https://www.sidbi.in">SIDBI Startup Mitra</a>'+
+'									<a href="https://www.sidbi.in" target="_blank">SIDBI Startup Mitra</a>'+
 '								</p>'+
 '								<p class="mbr-section-text lead">'+
-'									<a href="http://10000startups.com">NASSCOM – 10000 Startups</a>'+
+'									<a href="http://10000startups.com" target="_blank">NASSCOM – 10000 Startups</a>'+
 '								</p>'+
 '								<p class="mbr-section-text lead">'+
-'									<a href="http://www.investindia.gov.in">Invest India</a>'+
+'									<a href="http://www.investindia.gov.in" target="_blank">Invest India</a>'+
 '								</p>'+
 '								<p class="mbr-section-text lead">'+
-'									<a href="https://www.startupindiahub.org.in">Startup India Hub</a>'+
+'									<a href="https://www.startupindiahub.org.in" target="_blank">Startup India Hub</a>'+
 '								</p>'+
 '								<p class="mbr-section-text lead">'+
-'									<a href="www.startup.karnataka.gov.in">Startup Cell Karnataka</a>'+
+'									<a href="www.startup.karnataka.gov.in" target="_blank">Startup Cell Karnataka</a>'+
 '								</p>'+
 
 

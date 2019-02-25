@@ -47,6 +47,9 @@ var header = '<section class="menu1" id="menu-0">'+
 '									<a class="nav-link link" href="funding.html" aria-expanded="false">Funding</a>'+
 '								</li>'+
 '								<li class="nav-item">'+
+'									<a class="nav-link link" href="knowledge-bank.html" aria-expanded="false">Knowledge Bank</a>'+
+'								</li>'+
+'								<li class="nav-item">'+
 '									<a class="nav-link link" href="contact.html" aria-expanded="false">Contact</a>'+
 '								</li>'+
 '							</ul>'+
@@ -178,7 +181,7 @@ var footer = '<footer class="mbr-small-footer mbr-section mbr-section-nopadding 
 '									Contact Us'+
 '								</p>'+
 '								<p class="mbr-section-text lead">'+
-'									VidyaSunil & Associates Pvt. Ltd'+
+'									VidyaSunil & Associates '+
 '									<br>'+
 '									# 64 , Benaka Krupa Apartments'+
 '									<br>'+
